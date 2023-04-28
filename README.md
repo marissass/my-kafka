@@ -7,10 +7,11 @@ Perform the following steps to install and set up Apache Kafka:
 Download the docker-compose file from the aforementioned URL.
 Open the GitBash terminal.
 Change the directory to where you have placed the docker-compose file.
+
 Run the docker-compose up command in the GitBash terminal.
 As a result of following these instructions, Docker will install Zookeeper, Apache Kafka, and Kafdrop. Kafdrop is an intuitive admin GUI for managing Apache Kafka. In the following section, we will verify their installation.
 
-h1.Testing the Apache Kafka ecosystem setup
+Testing the Apache Kafka ecosystem setup
 
 To test whether the Apache Kafka ecosystem is installed successfully, perform the following steps:
 
